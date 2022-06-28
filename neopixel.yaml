@@ -1,0 +1,12 @@
+light:
+  - platform: neopixelbus
+    type: GRBW
+    pin: GPIO3
+    num_leds: 1
+    name: "NeoPixel Light"
+    effects:
+      - addressable_rainbow:
+      - addressable_rainbow:
+          name: Rainbow Effect With Custom Values
+          speed: 10
+          width: 50
