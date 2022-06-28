@@ -4,7 +4,7 @@
 
 This is my version of a Voronoi blowball Flower lamp based off the design from [here](https://www.thingiverse.com/thing:2940151). The print was fairly quick and didn't use much material at all. 
 
-![lamp]()
+![My Image](Images/lamp.jpg)
 
 ### Here are the parts used
 
